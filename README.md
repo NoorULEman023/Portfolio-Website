@@ -2,36 +2,36 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and experience as a Software Engineering student and aspiring Front-End Developer.
 
-## 🚀 Live Demo
+##  Live Demo
 
 🔗 **Portfolio Website:**  
 https://nooruleman023.github.io/Portfolio-Website/
 
 ---
 
-## 📌 About
+##  About
 
 This portfolio is designed to present my work in a clean, modern, and responsive interface. It highlights my technical skills, featured projects, and provides an easy way for visitors to connect with me.
 
 ---
 
-## ✨ Features
+##  Features
 
-- 🎨 Modern & Professional UI
-- 📱 Fully Responsive Design
-- ⚡ Smooth Scrolling Navigation
-- 💻 Featured Projects Showcase
-- 👨‍💻 About Me Section
-- 🛠️ Services Section
-- 📬 Contact Form
-- 📄 Resume Download
-- 🔗 GitHub, LinkedIn & Email Links
-- ⬆️ Back-to-Top Button
-- ✨ Smooth Animations
+-  Modern & Professional UI
+-  Fully Responsive Design
+-  Smooth Scrolling Navigation
+-  Featured Projects Showcase
+-  About Me Section
+-  Services Section
+-  Contact Form
+-  Resume Download
+-  GitHub, LinkedIn & Email Links
+-  Back-to-Top Button
+-  Smooth Animations
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
@@ -40,7 +40,7 @@ This portfolio is designed to present my work in a clean, modern, and responsive
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 Portfolio/
@@ -57,7 +57,7 @@ Portfolio/
 
 ---
 
-## 📸 Preview
+##  Preview
 
 _Add a screenshot of your portfolio homepage here._
 
@@ -69,17 +69,17 @@ assets/images/portfolio-preview.png
 
 ---
 
-## 📫 Contact
+##  Contact
 
 **Noor UL Eman**
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 💻 GitHub: https://github.com/yourusername
-- 📧 Email: your.email@example.com
+-  LinkedIn: https://linkedin.com/in/yourprofile
+-  GitHub: https://github.com/yourusername
+-  Email: nooruleman023@example.com
 
 ---
 
-## 📄 License
+##  License
 
 This project is created for educational and portfolio purposes.
 
